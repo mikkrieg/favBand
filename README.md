@@ -27,7 +27,7 @@ _This is a simple website for my favorite band BTSM. They are my favorite group 
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright(c) 2021 Mikey Kriegel and Sylvja Adamson
+Copyright(c) 2021 Mikey Kriegel
 
 ## Contact Information
 
