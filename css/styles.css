@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  font-size: 3em;
+  text-decoration: underline;
+}
+
+body {
+  background: linear-gradient(#FAB, #42f5bc);
+}
+
+.shows {
+  float: left;
+  background-color: #FAB;
+  border-radius: 15%;
+  text-align: center;
+  padding: 5px 5px 5px 10px;
+  border: 10px dotted #000;
+}
+
+.descriptions {
+  text-align: center;
+  display: block;
+  margin: 25px auto 25px auto;
+  width: 40%;
+  font-size: 1.2em;
+}
+
+.img-size {
+  width: 60%;
+  display: block;
+  margin: auto;
+}
+
+#top-pic {
+  width: 15%;
+  float: right;
+}
+
+#big-pic {
+  margin-right: 20%;
+}
+
